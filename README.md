@@ -1,3 +1,4 @@
+Towers of Hanoi
 public class Main {
     //must create at least 7 discs
     //must create 3 towers and a base
